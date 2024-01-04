@@ -1,5 +1,7 @@
 package c;
-import.java.util.ArrayList;
+
+import java.util.ArrayList;
+
 public class DemoC {
 	
 	public static void main(String[] args) {
